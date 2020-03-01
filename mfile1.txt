@@ -2,8 +2,5 @@ this is first line of commit m1
 
 This is second line of code for commit m2
 
-This is the third ine
-
-This is my code from local to see the fetch
-this is check for fetch
+deleted changes in remote
 
