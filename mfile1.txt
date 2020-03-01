@@ -2,5 +2,5 @@ this is first line of commit m1
 
 This is second line of code for commit m2
 
-deleted changes in remote
+New changes made t the code
 
